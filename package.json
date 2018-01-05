@@ -1,0 +1,23 @@
+{
+  "name": "machine_learning_hello_world",
+  "version": "1.0.0",
+  "description": "Demo program to learn machine learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grizzlypeaksoftware/machine_learning_hello_world.git"
+  },
+  "keywords": [
+    "machine",
+    "learning"
+  ],
+  "author": "Shane Larson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grizzlypeaksoftware/machine_learning_hello_world/issues"
+  },
+  "homepage": "https://github.com/grizzlypeaksoftware/machine_learning_hello_world#readme"
+}
